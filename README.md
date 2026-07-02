@@ -1,5 +1,14 @@
 # analise-espermograma-python
 # Análise Exploratória de Dados de Espermogramas utilizando Python
+
+**Autora:** Mariana dos Santos Silva
+
+**Disciplina:** Introdução à Programação para Pesquisa Biomédica
+
+**Professor:**Pedro Torres
+
+**Instituição:** UFRJ
+
 ## Projeto
 Projeto desenvolvido como atividade final da disciplina **Introdução à Programação para Pesquisa Biomédica**.
 ## Objetivo
