@@ -29,7 +29,3 @@ Realizar uma análise exploratória de um conjunto de dados sintético de esperm
 
   ## Observação
 Os dados utilizados são sintéticos e foram criados exclusivamente para fins didáticos.
-
-## Observação
-
-Os dados utilizados são sintéticos e foram criados exclusivamente para fins didáticos.
