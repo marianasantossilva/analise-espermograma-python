@@ -5,7 +5,7 @@
 
 **Disciplina:** Introdução à Programação para Pesquisa Biomédica
 
-**Professor:**Pedro Torres
+**Professor:** Pedro Torres
 
 **Instituição:** UFRJ
 
